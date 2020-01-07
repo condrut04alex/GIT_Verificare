@@ -5,7 +5,8 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 from matplotlib import style
 
-#comentariu adaugat pentru diferente git 
+
+#alt comentariu
 style.use('fivethirtyeight')
 fig = plt.figure()
 ax1 = fig.add_subplot(1,1,1)
